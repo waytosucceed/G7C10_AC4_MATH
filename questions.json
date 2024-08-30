@@ -1,0 +1,62 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What fraction of foreign language books are in Vietnamese?",
+        "options": [
+            "./assests/optionImg/1.jpg",
+            "./assests/optionImg/2.jpg",
+            "./assests/optionImg/3.jpg",
+            "./assests/optionImg/4.jpg"
+        ],
+        "correct": 0,
+        "img":"./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What fraction of dogs registered with the city are Beagles?",
+        "options": [
+            "./assests/optionImg/5.jpg",
+            "./assests/optionImg/6.jpg",
+            "./assests/optionImg/7.jpg",
+            "./assests/optionImg/8.jpg"
+        ],
+        "correct": 3,
+        "img":"./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What fraction of the food was eaten by Fluffy?",
+        "options": [
+            "./assests/optionImg/9.jpg",
+            "./assests/optionImg/10.jpg",
+            "./assests/optionImg/11.jpg",
+            "./assests/optionImg/12.jpg"
+        ],
+        "correct": 1,
+        "img":"./assests/images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What fraction of respondents preferred acrostics?",
+        "options": [
+            "./assests/optionImg/13.jpg",
+            "./assests/optionImg/14.jpg",
+            "./assests/optionImg/15.jpg",
+            "./assests/optionImg/16.jpg"
+        ],
+        "correct": 0,
+        "img":"./assests/images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What fraction of the funds were raised by the water polo team?",
+        "options": [
+            "./assests/optionImg/17.jpg",
+            "./assests/optionImg/18.jpg",
+            "./assests/optionImg/19.jpg",
+            "./assests/optionImg/20.jpg"
+        ],
+        "correct": 2,
+        "img":"./assests/images/5.jpg"
+    }
+]
